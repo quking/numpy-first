@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/numpy-first.iml" filepath="$PROJECT_DIR$/.idea/numpy-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ML-in-action.iml" filepath="$PROJECT_DIR$/.idea/ML-in-action.iml" />
     </modules>
   </component>
 </project>
